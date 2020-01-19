@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892960326473",
+    "firebase_url": "https://socapp-709ed.firebaseio.com",
+    "project_id": "socapp-709ed",
+    "storage_bucket": "socapp-709ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892960326473:android:fcb0095d28e9286b021098",
+        "android_client_info": {
+          "package_name": "com.example.soc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892960326473-jv7b9j44mkduotrpvj5j3dfiu01t6tnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYBNINueVfhOXFFk9Ey-B_WsMcLIdavhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892960326473-jv7b9j44mkduotrpvj5j3dfiu01t6tnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
