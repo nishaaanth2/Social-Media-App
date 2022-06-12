@@ -1,2 +1,2 @@
 # Social-Media-App
-A Community Blog App with firebase intergration
+A Community Blog App with firebase
